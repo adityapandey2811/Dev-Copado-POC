@@ -9,16 +9,6 @@
         <type>Checkbox</type>
     </fields>
     <fields>
-        <fullName>Field_Four__c</fullName>
-        <caseSensitive>true</caseSensitive>
-        <externalId>false</externalId>
-        <label>Field Four</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Email</type>
-        <unique>true</unique>
-    </fields>
-    <fields>
         <fullName>Field_One__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
